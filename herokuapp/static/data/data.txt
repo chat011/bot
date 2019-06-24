@@ -1,0 +1,20 @@
+Daily
+   These lenses are convenient as you only wear them once and dispose. 
+
+Bi-weekly
+   These lenses can be reused for two weeks. Be sure to store them in a closed lens case with a proper regimen.
+
+Monthly
+    These lenses can work out great for regular contact lens wearers. You can wear the same pair for 30 days. Be sure to store them in a closed lens case with a proper regimen. 
+
+Extended_Wear
+   These lenses are designed to be worn continuously, even while you are sleeping. They are also FDA-approved for daily and extended wear for up to 30 nights. 
+
+Toric_Astigmatism
+   These lenses are meant to correct astigmatism, which causes blurred vision.
+
+Multifocal_Presbyopia
+   These lenses are meant to help you see clearly at all distances after you have lost the naturally ability to change the focus of your eyes due to age.
+
+Colored
+  These lenses are meant to change the color of your eyes to your liking. They are available in prescription and non-prescription.
